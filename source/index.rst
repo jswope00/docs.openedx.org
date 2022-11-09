@@ -29,15 +29,15 @@ Open edX Documentation
       Documentors: First Documentation PR <documentors/quickstarts/first_documentation_pr>
 
    ---
-
    .. toctree::
       :maxdepth: 1
-      :caption: What's New
+      :caption: Open Source Community
 
-      For Educators <whats_new/educators_whats_new>
-      For Course Operators <whats_new/course_ops_whats_new>
-      For Site Operators <whats_new/site_ops_whats_new>
-      For Developers <whats_new/developers_whats_new>
+
+      Current Release: Nutmeg <whats_new/educators_whats_new>
+      Release Notes <whats_new/educators_whats_new>
+      How to Get Involved <whats_new/course_ops_whats_new>
+      Open edX Proposals <whats_new/course_ops_whats_new>
 
    ---
 
