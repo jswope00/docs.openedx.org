@@ -9,6 +9,7 @@ Open edX Documentation
    :caption: User Home Pages
    :hidden:
 
+   Community <community/index>
    Educators <educators/index>
    Course Operators <course_ops/index>
    Site Operators <site_ops/index>
@@ -34,10 +35,10 @@ Open edX Documentation
       :caption: Open Source Community
 
 
-      Current Release: Nutmeg <whats_new/educators_whats_new>
-      Release Notes <whats_new/educators_whats_new>
-      How to Get Involved <whats_new/course_ops_whats_new>
-      Open edX Proposals <whats_new/course_ops_whats_new>
+      Current Release: Nutmeg <community/release_notes/nutmeg>
+      Release Notes <community/release_notes/index>
+      How to Contribute <whats_new/course_ops_whats_new>
+      OEPs: Community Decisions <whats_new/course_ops_whats_new>
 
    ---
 
