@@ -77,13 +77,11 @@ Studio & Course Author Tools
   Open edX Course*  for more information.
 
 * Course teams can create custom pages that only course team members with the
-  Staff or Admin role can see.  See :ref:`opencoursestaff:Add Page` for more
-  information.
+  Staff or Admin role can see.
 
 * When course teams override grades from peer assessments in open response
   assessment (ORA) problems, the assignment is now correctly marked as
-  complete. For more information, see :ref:`opencoursestaff:Override a learner
-  assessment grade`.
+  complete.
 
 * Improvements to the word cloud tool include a new **Instructions** field and
   accessibility updates.
