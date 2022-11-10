@@ -388,7 +388,7 @@ The following XModules and tools are deprecated in the Dogwood release.
 
 * The FoldIt protein simulator XModule.
 
-* The LTI XModule. This XModule has been replaced by the :ref:`LTI XBlock`.
+* The LTI XModule. This XModule has been replaced by the `LTI XBlock`.
 
 * Support has ended for the graphical_slider_tool. Code for this tool will
   be removed entirely in the Open edX Eucalyptus release.
@@ -504,9 +504,7 @@ Patch Releases
 
 * You now have the option to allow learners to audit courses without offering
   certificates for the audit track.  Use the ``AUDIT_CERT_CUTOFF_DATE`` setting
-  to control when audit certificates are discontinued. For more information,
-  see :ref:`installation:Discontinue Audit Certificates` in the *Installing,
-  Configuring, and Running the Open edX Platform* guide.
+  to control when audit certificates are discontinued.
 
 * A number of installation issues are fixed.
 

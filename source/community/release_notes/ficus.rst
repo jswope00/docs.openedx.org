@@ -192,19 +192,6 @@ System Upgrades and Updates
     TBD
 
 
-************************************************
-More Information on Ficus Release Changes
-************************************************
-
-The `edX Release Notes`_ contain a summary of changes that are deployed to
-edx.org. Those changes are part of the master branch of the edX Platform in
-GitHub.  You can also find `release announcements`_ on the open.edx.org
-website.
-
-Changes listed for 10 January 2017 and before are included in the Ficus release
-of Open edX.  Changes after that point will be in future Open edX releases.
-
-
 **************
 Patch Releases
 **************
