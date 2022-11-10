@@ -159,6 +159,3 @@ Several features are deprecated or deleted in the Open edX Hawthorn release.
   permanently enabled. This meants that logging out of the LMS or an IDA logs 
   you out of all systems.
 
-
-.. include:: links.rst
-.. include:: ../../links/links.rst

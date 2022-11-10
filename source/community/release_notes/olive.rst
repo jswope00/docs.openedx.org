@@ -19,7 +19,3 @@ Breaking Changes
 
 TODO
 
-
-.. include:: links.rst
-.. include:: ../../links/links.rst
-

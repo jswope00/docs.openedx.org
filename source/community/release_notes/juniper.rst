@@ -69,7 +69,3 @@ single repository versions of OEPs, and are also a key highlight for Juniper.
 
 :ref:`Read full Developer details <juniper_developer>`.
 
-
-
-.. include:: links.rst
-.. include:: ../../links/links.rst

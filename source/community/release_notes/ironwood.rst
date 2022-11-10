@@ -270,6 +270,3 @@ keys.
 
 .. __: https://django-oscar.readthedocs.io/en/latest/releases/v1.5.3.html
 
-
-.. include:: links.rst
-.. include:: ../../links/links.rst

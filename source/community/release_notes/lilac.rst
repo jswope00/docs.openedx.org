@@ -252,6 +252,3 @@ Developer Experiences
 - Import unqualified packages from lms/djangoapps, cms/djangoapps, or common/djangoapps is no longer supported. Doing so will cause instances of import_shims.warn.DeprecatedEdxPlatformImportError to be raised. See https://github.com/openedx/edx-platform/blob/master/docs/decisions/0007-sys-path-modification-removal.rst  for details and context.
 
 - In common.djangoapps.student.models, the save parameter is deprecated for functions anonymous_id_for_user and unique_id_for_user, and these functions will always save generated IDs to the database. This allows future decoupling of ID generation from SECRET_KEY. Including the parameter will result in a DeprecationWarning; after Lilac we plan to remove the parameter (which will be a separate breaking change – DEPR-148).
-
-.. include:: links.rst
-.. include:: ../../links/links.rst

@@ -568,6 +568,3 @@ Patch Releases
 * Links to vertical blocks have been fixed. (:jira:`TNL-5003`)
 
 * The install_stack.sh file now creates directories differently.
-
-.. include:: links.rst
-.. include:: ../../links/links.rst

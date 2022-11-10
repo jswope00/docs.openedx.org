@@ -216,6 +216,3 @@ Several features are deprecated or deleted in the Open edX Ginkgo release.
   sidebar navigation and this waffle flag will be fully removed in the next
   release.
 
-
-.. include:: links.rst
-.. include:: ../../links/links.rst

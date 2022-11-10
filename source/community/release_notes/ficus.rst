@@ -258,8 +258,3 @@ Patch Releases
 * A security fix was applied to prevent an attacker from poisoning a header and
   causing Open edX installations to send password reset emails where the reset
   link had been modified to a domain the attacker controls.
-
-
-
-.. include:: links.rst
-.. include:: ../../links/links.rst

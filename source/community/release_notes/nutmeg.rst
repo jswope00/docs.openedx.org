@@ -322,7 +322,3 @@ Open edX Events: this standardized version of Django Signals allows extension de
 
 Open edX Filters: through configuration only, extension developers can set a list of functions to be executed before a key process starts, e.g before enrollment, login, register, etc.
 
-
-.. include:: links.rst
-.. include:: ../../links/links.rst
-
