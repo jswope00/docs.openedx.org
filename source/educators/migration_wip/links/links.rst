@@ -720,3 +720,7 @@
 .. _video player: https://edx.readthedocs.io/projects/open-edx-learner-guide/en/latest/SFD_video_player.html
 
 .. _math formatting: https://edx.readthedocs.io/projects/open-edx-learner-guide/en/latest/completing_assignments/SFD_mathformatting.html
+
+.. _Open edX® Documentation: https://docs.openedx.org/
+
+.. _contribute to Open edX® Documentation: https://docs.openedx.org/en/latest/documentors/quickstarts/first_documentation_pr.html
