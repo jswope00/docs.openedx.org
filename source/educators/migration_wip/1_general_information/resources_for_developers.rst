@@ -50,3 +50,15 @@ Source team is working on with the community.
 
 The `edx-tools`_ wiki lists publicly shared tools for working with the edX
 platform, including scripts and helper utilities.
+
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

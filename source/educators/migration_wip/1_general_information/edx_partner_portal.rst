@@ -33,3 +33,14 @@ support tickets you have created, go to `partners.edx.org`_ and select **Get Tec
 
 .. _partners.edx.org: https://partners.edx.org
 .. _edX Partner Portal: https://partners.edx.org
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

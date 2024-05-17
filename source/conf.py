@@ -42,6 +42,7 @@ extensions = [
     "sphinxcontrib.mermaid",
     "sphinx.ext.intersphinx",
     "sphinxext.rediraffe",
+    "sphinx_immaterial.task_lists",
 ]
 
 # Extension Configuration

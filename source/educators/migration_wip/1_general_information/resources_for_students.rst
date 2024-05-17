@@ -56,3 +56,14 @@ help center with `frequently asked questions`_  and answers.
 
 If you still have questions or suggestions, you can contact the `edX Support`_
 team for help.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

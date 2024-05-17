@@ -33,3 +33,15 @@ then select **PDF**.
 .. note:: If you use the Safari browser, be aware that it does not support the
  search feature for the HTML versions of the edX guides. This is a known
  limitation.
+
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List
