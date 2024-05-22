@@ -32,8 +32,6 @@ information resources. Contact the edX documentation team at `docs@edx.org`_.
 
 .. include:: edx_site.rst
 
-.. include:: system_status.rst
-
 .. include:: resources_for_course_teams.rst
 
 .. include:: resources_for_researchers.rst
