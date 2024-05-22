@@ -1185,3 +1185,14 @@ To find the unique location identifier for a problem, follow these steps.
 
 To close the Staff Debug viewer, click on the browser page outside of the
 viewer.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -10,3 +10,14 @@ you've added, click the trash can icon next to its respective hint field.
 .. note::
   You can configure any number of hints. The learner views one hint at a time
   and views the next one by selecting **Hint** again.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

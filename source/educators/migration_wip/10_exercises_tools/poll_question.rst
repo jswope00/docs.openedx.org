@@ -258,3 +258,14 @@ The results of the poll are then displayed.
 .. image:: ../images/poll_with_results.png
     :alt: A poll showing results after the learner has submitted a response.
     :width: 400
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

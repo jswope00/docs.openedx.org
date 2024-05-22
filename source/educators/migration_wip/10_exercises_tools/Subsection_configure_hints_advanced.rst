@@ -31,3 +31,14 @@ For example, the following OLX for a single select problem shows two hints.
       <hint>A fruit contains seeds of the plant.</hint>
     </demandhint>
   </problem>
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

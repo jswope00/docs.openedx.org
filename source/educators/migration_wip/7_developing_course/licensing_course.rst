@@ -162,3 +162,14 @@ For the course and for videos, if you choose **All Rights Reserved**, learners
 see **All Rights Reserved**; if you choose **Creative Commons** and select any
 allowed combination of options, learners see **Some Rights Reserved** and can
 select the link to see details.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

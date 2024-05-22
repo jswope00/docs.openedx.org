@@ -638,3 +638,14 @@ can then let you know if they found the question and the rubric easy to
 understand or if they had any problems with the assignment.
 
 For more information about beta testing, see :doc:`../../15_releasing_course/beta_testing`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

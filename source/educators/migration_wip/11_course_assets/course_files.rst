@@ -280,3 +280,14 @@ download, then click on the Actions button, and then select Download. To
 download all files, select the very first checkbox, then select the Action
 button and then select Download.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

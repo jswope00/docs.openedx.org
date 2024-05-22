@@ -54,3 +54,14 @@ To enable the calculator tool, follow these steps.
 #. Click the gear icon on the **Calculator** card shown on this page.
 #. From the **Configure calculator** modal, select the toggle to enable or disable the notes application.
 #. Select **Apply** to save your configuration changes.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

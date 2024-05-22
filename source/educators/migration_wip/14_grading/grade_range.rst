@@ -64,3 +64,14 @@ qualify for a certificate by earning any grade over the F, or Fail, threshold.
 This is true regardless of how many grade levels you add in the grade range.
 
 For more information, see :ref:`Setting Up Certificates`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

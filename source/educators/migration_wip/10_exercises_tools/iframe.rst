@@ -148,3 +148,14 @@ elements below affect the iframe.
 
 For more information about iframe attributes, see
 `iframe: The Inline Frame element <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe>`_.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

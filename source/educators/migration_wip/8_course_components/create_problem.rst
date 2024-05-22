@@ -873,3 +873,14 @@ ask your learners to go back and resubmit answers to a problem.
 
 For information about how to review and adjust learner grades in the LMS, see
 :ref:`Adjust_grades`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

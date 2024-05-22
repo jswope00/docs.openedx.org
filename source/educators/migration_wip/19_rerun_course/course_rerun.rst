@@ -296,3 +296,14 @@ for launch, see :ref:`Launch`.
 .. note::
   Changes you make in the new course have no effect on the original course.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

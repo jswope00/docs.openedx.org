@@ -246,3 +246,14 @@ enrolled for your course.
 To research and deanonymize learner data, you can use this file together with
 the ``{course_id}_student_profile_info_{date}.csv`` file of learner data or the
 ``{course_id}_grade_report_{date}.csv`` file of grades.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

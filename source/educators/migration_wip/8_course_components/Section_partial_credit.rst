@@ -65,3 +65,14 @@ the learner's submission history. The submission history shows the score that
 the learner received out of the total available score, and the value in the
 ``correctness`` field is ``partially-correct``.  For more information, see
 :ref:`Student_Answer_Submission`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

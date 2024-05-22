@@ -314,3 +314,14 @@ subsection, follow these steps.
   .. note:: Prerequisite course subsection settings are not retained when
      you :ref:`export or import a course<Exporting and Importing a Course>`, or
      when you :ref:`re-run a course<Rerun a Course>`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -43,3 +43,14 @@ To create the periodic table, you need a Text component.
    Text component editor. (Note that the PeriodicTableHTML.txt file contains
    over 6000 lines of code. Paste all of this code into the component editor.)
 #. Click **Save**.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -106,3 +106,13 @@ discussion topics.
  :alt: The list of discussions on the Discussion page in the LMS, showing the
      category and subcategory of a content-specific discussion topic.
  :width: 400
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

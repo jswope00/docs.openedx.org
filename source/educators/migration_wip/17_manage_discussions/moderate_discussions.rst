@@ -397,3 +397,14 @@ If a learner repeatedly misuses course discussions despite being warned, you
 can unenroll that learner from the course. For more information, see
 :ref:`unenroll_student`. The learner cannot re-enroll in the course if the
 enrollment period for the course is over.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

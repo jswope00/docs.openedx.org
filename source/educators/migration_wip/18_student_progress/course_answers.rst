@@ -608,3 +608,14 @@ toolbar and then select the type of chart you want.
 You can adjust your course content based on common mistakes. While most
 learners in this example selected the correct answer, the number of incorrect
 answer(s) can guide future changes to the course content.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -48,3 +48,14 @@ Enabling Xpert Unit Summaries
      .. image:: ../../images/summary_unit_settings.png
 
   .. note:: By enabling Xpert Unit Summaries, course teams are agreeing to send text-based course content to OpenAI, via API, to be summarized using a generative AI model. Read more about OpenAI’s data privacy practices.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

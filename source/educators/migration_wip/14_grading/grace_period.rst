@@ -27,3 +27,14 @@ the **Grace Period on Deadline** field. Enter the value in ``HH:MM`` format.
   :alt: An image of the top part of the Grading page in which you can see the
    range for grades and set the grace period.
   :width: 600
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

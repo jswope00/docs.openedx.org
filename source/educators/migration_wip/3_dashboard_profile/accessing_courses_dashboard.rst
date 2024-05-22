@@ -90,3 +90,14 @@ media sites such as Facebook and Twitter.
     In the right pane, a **Program Certificates** list shows the names of
     programs for which you have earned certificates. For more information about
     the program, or to view the certificate, select the name of the program.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

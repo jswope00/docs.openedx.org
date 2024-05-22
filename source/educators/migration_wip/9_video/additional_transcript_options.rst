@@ -102,3 +102,14 @@ To add another downloadable transcript, follow these steps.
 #. Locate the **Handout** section, and then select **Upload Handout**.
 #. In the dialog box, select the file on your computer, and then select
    **Open**.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

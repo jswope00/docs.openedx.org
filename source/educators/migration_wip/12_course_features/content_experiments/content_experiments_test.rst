@@ -33,3 +33,14 @@ different experiment group of learners sees.
  terminology ("Welcome to Group A", for example) to make the functionality
  clear. Typically, you would not use terminology in course content that would
  make learners aware of the experiment.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

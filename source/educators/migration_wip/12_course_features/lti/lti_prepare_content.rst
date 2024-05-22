@@ -181,3 +181,14 @@ steps.
    the content for publication. Alternatively, delete the unit.
 
 #. Publish the unit. For more information, see :ref:`Publish a Unit`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

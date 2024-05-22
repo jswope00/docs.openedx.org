@@ -227,3 +227,14 @@ License
           The license options that you select control the copyright notice that
           learners see for the video. For more information, see :ref:`Licensing
           a Course`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

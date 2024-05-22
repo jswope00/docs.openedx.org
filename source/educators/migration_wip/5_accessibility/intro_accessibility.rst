@@ -17,3 +17,13 @@ develop courses that can serve the widest possible audience.
 .. note:: Course teams should familiarize themselves with this best practices
    guidance and distribute it to any members of their teams who are
    responsible for creating course content.
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

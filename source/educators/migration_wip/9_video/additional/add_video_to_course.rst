@@ -39,3 +39,14 @@ To add a video to an edge.edx.org course, follow these steps.
 
 #. Optionally, you can set more options for the video. For a description of each option,
    see :ref:`Video Settings`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -705,3 +705,13 @@ However, if you select “Remove formatting”, this is what Studio and LMS will
    If you see errors, go back to the unit page. Select **Edit** to open the
    component again, and then select **Launch Latex Source Compiler** to edit
    the LaTeX code.
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

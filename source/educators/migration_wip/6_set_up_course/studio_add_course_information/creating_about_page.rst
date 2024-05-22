@@ -160,3 +160,14 @@ To set the hours per week week estimate in Studio, follow these steps.
 #. View your course About page to test how the requirements will appear to
    learners.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

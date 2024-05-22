@@ -61,3 +61,14 @@ In this code:
   if you want this problem to look like the second gene editor problem in the
   7.00x course, you would set the **genex_problem_number** value to 2. The
   number must be 1, 2, 3, 4, or 5.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

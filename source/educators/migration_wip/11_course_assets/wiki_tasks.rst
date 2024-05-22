@@ -143,3 +143,14 @@ Combine a Current Version with a Previous Version
    that you want to merge with the current version.
 #. Select **Merge selected with current** to combine the current and the
    selected versions.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

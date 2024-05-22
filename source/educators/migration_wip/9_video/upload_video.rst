@@ -502,3 +502,14 @@ videos to the third party hosting site that you selected. You also obtain the
 transcripts for the videos from your third party provider. You :ref:`add the video location <Adding a Video to a Course>` and :doc:`prepare_video/obtain_transcript` when you create a video component.
 
 .. include:: additional/upload_video.rst
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -116,3 +116,14 @@ your course starts follow.
 * Define methods for managing discussions and guidance for discussion
   moderators, and distribute to the discussion team. See
   :ref:`Moderating_discussions` and :ref:`Guidance for Discussion Moderators`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

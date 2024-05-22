@@ -227,3 +227,14 @@ LTI URLs for Text components include "html+block" or "html", as follows.
 
   ``https://edx-lti.org/lti_provider/courses/edX/DemoX/2014/i4x:;_;_edX;_DemoX;_html;_2b94658d2eee4d85ae13f83bc24cfca9``
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

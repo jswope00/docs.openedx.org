@@ -46,3 +46,14 @@ the problems in the experiment group content to which they are reassigned.
 Removing an experiment group affects event data for the course. Ensure that
 researchers who are evaluating your course results are aware of the experiment
 group that you removed and the date on which you removed it.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

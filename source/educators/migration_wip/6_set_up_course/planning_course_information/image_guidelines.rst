@@ -147,3 +147,13 @@ as your course content videos.
 
  For information about how to add an About video to your course About page, see
  :ref:`Add an About Video <Add an About Video>`.
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

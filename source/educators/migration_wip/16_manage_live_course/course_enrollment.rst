@@ -255,3 +255,14 @@ To unenroll learners, you supply the email addresses of enrolled learners.
 #. Select **Unenroll**. The course is no longer listed on the learners'
    **Current Courses** dashboards, and the learners can no longer access the
    course content or contribute to discussions or the wiki.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

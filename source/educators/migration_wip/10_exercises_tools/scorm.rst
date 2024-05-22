@@ -116,3 +116,14 @@ There are 2 events a SCORM package can emit in order to communicate with the Ope
 
     * **name**: ``cmi.score.raw``
     * **value**: A number that reflects the performance of the learner relative to the range bounded by the values of min and max [e.g. if the quiz is out of 10, a number between 0 and 10. The maximum being the ``Weight`` you set in for the SCORM settings above.]
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

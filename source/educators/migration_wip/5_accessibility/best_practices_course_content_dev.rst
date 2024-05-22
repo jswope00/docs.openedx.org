@@ -1053,3 +1053,14 @@ Universal Design for Learning Resources
 =======================================
 
 * `The National Center on Universal Design for Learning <https://udlguidelines.cast.org/>`_ provides a helpful overview on Universal Design for Learning.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

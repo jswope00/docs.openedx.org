@@ -14,3 +14,13 @@ to view your courses.
 .. include:: what_is_studio.rst
 
 .. include:: what_is_lms.rst
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

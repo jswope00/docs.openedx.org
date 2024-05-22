@@ -160,3 +160,14 @@ complete the following tasks.
      added to a discussion moderation role in addition to having the course
      team Staff or Admin role. For more information, see
      :ref:`Assigning_discussion_roles <Assigning_discussion_roles>`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

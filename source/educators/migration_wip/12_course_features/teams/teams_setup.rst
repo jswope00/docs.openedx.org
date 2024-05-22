@@ -545,3 +545,14 @@ students to pass validation. Edit team mappings to create designated teams for `
 Team-sets have a ``max-team-size`` configured in Teams Configuration.
 The newly proposed team memberships would exceed the capacity of the given teams.
 Increase the team-set size or redistribute users to different/more teams and re-upload.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

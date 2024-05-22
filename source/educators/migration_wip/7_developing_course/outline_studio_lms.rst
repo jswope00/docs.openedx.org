@@ -36,3 +36,14 @@ unit that the learner most recently completed.
 For information about more specific learner data, including the learner's
 grades or answers for individual problems, see :ref:`Manage Student Progress
 Index`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -496,3 +496,14 @@ edit a drag and drop problem.
   :ref:`styling_drag_and_drop_problems`.
 
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

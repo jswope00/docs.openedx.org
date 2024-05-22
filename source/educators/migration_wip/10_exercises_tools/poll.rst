@@ -208,3 +208,14 @@ Example of poll with unable reset functionality
         <answer id="man">Man</answer>
         <answer id="woman">Woman</answer>
     </poll_question>
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

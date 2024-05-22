@@ -265,3 +265,14 @@ Follow these steps to override the course’s default pacing, and enable custom 
 3. Click “Save”
 
 The relative due date you saved will now be published for all enrolled learners.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

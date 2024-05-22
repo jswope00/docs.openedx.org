@@ -357,3 +357,14 @@ To reorder the pages, follow these steps.
 
 You can also delete a custom page from your course using the delete icon shown on each custom page from the **Custom Pages** Studio page.
 If you delete a page after the course start date, note that the visibility of the page in the learner experience changes immediately.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

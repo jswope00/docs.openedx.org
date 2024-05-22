@@ -959,3 +959,14 @@ correctness.
   unit if your script cannot be executed. One common error is the indentation error.
   The script must start on no indentation regardless of the indentation of the previous
   line.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

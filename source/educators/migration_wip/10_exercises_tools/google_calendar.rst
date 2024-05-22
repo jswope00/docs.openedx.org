@@ -225,3 +225,14 @@ When you make changes to a Google Calendar that is embedded in your course,
 learners see the updates immediately. You make changes to calendars with the
 Google user interface. You do not need to edit the Google Calendar component.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

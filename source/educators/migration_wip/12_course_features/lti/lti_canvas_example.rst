@@ -36,3 +36,14 @@ To use edX course content in the Canvas LMS, you add a new app to the course and
    .. image:: ../../images/lti_canvas_example2.png
      :alt: An edX drag and drop problem shown as part of a course running on a
       Canvas system.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

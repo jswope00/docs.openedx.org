@@ -305,3 +305,14 @@ filename indicates the ORA index, username (or partner ID if availabel) and
 prompt index for a given ORA. When responses are file uploads, the name will also
 include the original filename.
 Example: ``[1] - john_doe - prompt_0.txt``.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

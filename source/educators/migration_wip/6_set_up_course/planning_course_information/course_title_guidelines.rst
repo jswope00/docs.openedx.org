@@ -45,3 +45,14 @@ as an XSeries.
 * Circuits and Electronics 1: Basic Circuit Analysis
 * Circuits and Electronics 2: Amplification, Speed, and Delay
 * Circuits and Electronics 3: Applications
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

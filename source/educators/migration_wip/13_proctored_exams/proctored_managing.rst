@@ -159,3 +159,14 @@ To view learners' onboarding status for your course, follow these steps.
          `Checking Your Onboarding Status and Resetting Your Onboarding Exam`_ in
          the edX Help Center.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

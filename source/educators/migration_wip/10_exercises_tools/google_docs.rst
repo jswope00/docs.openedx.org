@@ -207,3 +207,14 @@ When you edit and save a Google Drive file that is embedded in your course,
 learners see the updates immediately. You make changes to files with the
 Google user interface. You do not need to edit the Google Document component.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -122,3 +122,14 @@ without proctoring, please contact your edX partner manager to enable this optio
     #. Change the value of the setting to ``Yes``.
 
     #. Select **Submit**.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

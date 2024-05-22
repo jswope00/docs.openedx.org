@@ -107,3 +107,14 @@ team.
 
 For information about course discussions and managing discussions, see
 :ref:`Discussions` and :ref:`Guidance for Discussion Moderators`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

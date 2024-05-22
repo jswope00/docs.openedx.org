@@ -38,3 +38,14 @@ For more information, see the following topics.
 
 * :ref:`Supporting Learners with Diverse Needs`
 * :ref:`Accessibility Best Practices for Course Content Development`
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

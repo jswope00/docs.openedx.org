@@ -156,3 +156,14 @@ Use the following guidelines to select the level for your course.
   school or some university courses.
 * Advanced - Significant prerequisites; the course is geared to third or fourth
   year university students or master's degree students.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

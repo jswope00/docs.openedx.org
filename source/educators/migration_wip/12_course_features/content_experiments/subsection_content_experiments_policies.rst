@@ -94,3 +94,14 @@ experiment groups, and the second divides learners into three experiment groups.
   As this example shows, each group configuration is independent.  Group IDs
   and names must be unique within a group configuration, but not across all
   group configurations in your course.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

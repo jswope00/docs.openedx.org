@@ -191,3 +191,14 @@ comments in course discussions.
 #. On the learner's **Discussion** page, select their linked username.
 
 The learner's account profile page opens.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

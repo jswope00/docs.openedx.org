@@ -87,3 +87,14 @@ for Student**. If you reset learner attempts, rescore learner submissions, or
 delete learner state, the operation runs in the background. If you want to see
 a record of all the operations that have run for the entrance exam, select
 **Show Background Task History for Student**.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

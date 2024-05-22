@@ -94,3 +94,14 @@ of the website that hosts that exploration and its ID.
    Studio does not show the exploration on the unit page. To verify your work,
    select **Preview**, or publish the unit and then select **View Live**.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

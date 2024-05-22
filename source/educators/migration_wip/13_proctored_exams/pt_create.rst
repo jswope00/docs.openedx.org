@@ -124,3 +124,14 @@ steps.
    exam exemptions and accommodations (Test Settings, Whitelist Url/Apps, or Special Notes
    for custom student needs). This information will be sent over to the exam reviewers along
    with the learner’s attempt.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

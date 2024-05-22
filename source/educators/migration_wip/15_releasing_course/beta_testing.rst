@@ -382,3 +382,14 @@ problems, questions, and issues can occur while a course is running.
 
 * To let learners know the best way to report problems, you can post information
   in the course welcome message, or post it in a discussion.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

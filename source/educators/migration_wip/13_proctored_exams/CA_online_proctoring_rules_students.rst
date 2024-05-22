@@ -159,3 +159,13 @@ your request and make any adjustments before you start your exam.
 
   If you have questions about your proctoring exam status, go to https://edx.org
   to contact edX Support, or consult your course team.
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

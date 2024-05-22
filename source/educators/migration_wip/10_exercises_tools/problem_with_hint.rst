@@ -171,3 +171,14 @@ Tags
        - Must be set to **hint_fn** (that is, the tag must appear as
          ``<hintgroup hintfn="hint_fn"/>``).
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

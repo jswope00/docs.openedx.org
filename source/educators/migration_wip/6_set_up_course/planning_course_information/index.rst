@@ -18,3 +18,14 @@ information in Studio. For more information, see :ref:`Creating a Course <Create
    image_guidelines
    description_guidelines
    additional_course_information
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

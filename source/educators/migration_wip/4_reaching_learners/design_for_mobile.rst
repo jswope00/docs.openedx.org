@@ -88,3 +88,13 @@ renders as you expect it to.
 .. note:: Keep in mind that course updates that you make might not be
    immediately reflected in the edX mobile apps. In particular, newly
    published content can take up to an hour to update on the Android app.
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

@@ -70,3 +70,14 @@ While your course is running, after learners have had a chance to complete the o
 
 #. **Review result** File is uploaded, validated, scores are overwritten for non-blank rows. You’ll get a readout at the bottom of the screen.
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

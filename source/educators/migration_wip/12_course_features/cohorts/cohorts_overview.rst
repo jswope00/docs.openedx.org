@@ -277,3 +277,14 @@ previously saw will seem to have "disappeared". To avoid negatively affecting
 the learner experience, any cohort assignment changes should be done as early
 in the course run as possible, so that learners' views of discussion posts and
 contributions remain consistent over time.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

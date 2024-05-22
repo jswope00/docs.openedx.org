@@ -99,3 +99,14 @@ To add a recommender to a course, follow these steps.
 #. Select **Save**.
 
 #. Optionally, open the unit in the LMS and suggest some resources.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

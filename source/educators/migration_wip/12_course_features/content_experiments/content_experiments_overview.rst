@@ -65,3 +65,14 @@ or :doc:`subsection_content_experiments_policies`.
 You then select which group configuration to use when you add a content
 experiment :ref:`using Studio <Add a Content Experiment in Studio>` or
 :doc:`subsection_content_experiments_OLX`.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

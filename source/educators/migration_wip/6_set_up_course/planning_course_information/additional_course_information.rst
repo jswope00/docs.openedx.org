@@ -270,3 +270,13 @@ To be effective, a testimonial should contain no more than 25-50 words.
 
   You add this information as a JSON dictionary in Studio. For more
   information, see :ref:`Add Course Metadata <Add Course Metadata>`.
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

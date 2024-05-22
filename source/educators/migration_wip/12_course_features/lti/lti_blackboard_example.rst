@@ -46,3 +46,14 @@ To use edX course content in the Blackboard LMS, you add a new app to the course
       Blackboard system.
 
 
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

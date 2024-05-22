@@ -31,3 +31,14 @@ To subscribe or unsubscribe to emails from a course, follow these steps.
    .. note:: If you clear this check box, you will not receive any of the
         email messages that course teams send to communicate with enrolled
         learners in the course.
+        
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

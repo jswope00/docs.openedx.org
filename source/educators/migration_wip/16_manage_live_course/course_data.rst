@@ -62,3 +62,14 @@ To view this course data, follow these steps.
 
 Additional data about the course and its learners is available from other pages
 in the instructor dashboard.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List

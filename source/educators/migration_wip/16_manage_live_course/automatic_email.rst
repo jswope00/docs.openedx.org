@@ -194,3 +194,14 @@ After a learner or course team member creates a post in the course discussions, 
   <text of comment>
 
 The message also contains a View discussion option that takes the learner to the discussion post. EdX does not send individual messages for any additional replies on the post.
+
+..
+  _Start Task List
+.. task-list::
+    :custom:
+
+    1. [ ] Links Verified
+    2. [ ] References to edX/2U/edx.org removed or changed to Open edX® LMS
+    3. [ ] Tagged with taxonomy term
+..
+  _End Task List
