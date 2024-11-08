@@ -393,11 +393,3 @@ Timed Exams
    ../concepts/advanced_features/timed_exams.rst
    ../how-tos/advanced_features/timed_exams.rst
 
-Zooming Image Tool
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:   
-
-   ../how-tos/course_development/exercise_tools/create_zooming_image.rst

@@ -63,3 +63,4 @@ Resources for Students
    :glob:
 
    ../references/resources_for_students.rst
+   ../how-tos/sidebar_collapse_expand.rst

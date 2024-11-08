@@ -105,23 +105,6 @@ Google Calendar Tool
 
    ../references/course_development/exercise_tools/google_calendar.rst
 
-Learner View
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   ../how-tos/sidebar_collapse_expand.rst
-
-Manage a Course Run
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   ../references/student_management/enrollment_requirements.rst
 
 Poll Tool
 *******************************************************

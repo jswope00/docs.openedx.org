@@ -12,13 +12,13 @@ Create and Manage Course Units
    :maxdepth: 2
    :glob:
 
+   ../references/course_development/course_units.rst
    ../how-tos/add_units.rst
    ../how-tos/course_development/create_edit_publish_unit.rst
    ../how-tos/course_development/set_restrictions_unit.rst
-   ../how-tos/copy_paste_units.rst
    ../how-tos/course_development/hide_units.rst
+   ../how-tos/copy_paste_units.rst
    ../how-tos/copy_paste_course_content.rst
-   ../references/course_development/course_units.rst
    ../references/course_development/unit_workflow_and_status.rst
 
 .. _Create and Manage Components:
@@ -48,12 +48,22 @@ Add Text Components
    ../references/course_development/text_components/text_components.rst
    ../how-tos/course_development/text_components/work_with_html.rst
    ../how-tos/course_development/text_components/create_text_component.rst
+   ../how-tos/add_written_content.rst
    ../references/course_development/text_components/add_link_website_unit_file.rst
    ../how-tos/course_development/text_components/add_image.rst
    ../how-tos/course_development/exercise_tools/create_full_screen_image.rst
    ../how-tos/course_development/text_components/paste_without_formatting.rst
-   ../how-tos/add_written_content.rst
    ../how-tos/course_development/text_components/work_with_latex.rst
+   ../references/accessibility/accessibility_checker.rst
+
+Add Mathjax
+*******************************************************
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   ../references/course_development/exercise_tools/mathjax_studio.rst   
    
 .. _Add Video Components:
 
@@ -66,11 +76,13 @@ Add Video Components
 
    ../how-tos/course_development/video_process_overview.rst
    ../references/course_development/add_video_to_course.rst
+   ../how-tos/create_video.rst
    ../how-tos/course_development/add_video_to_course.rst
    ../references/course_development/troubleshoot_video.rst
-   ../how-tos/create_video.rst
    ../how-tos/course_development/additional_video_options.rst
    ../how-tos/add_video_quiz.rst
+   ../how-tos/course_development/additional_transcript_options.rst
+   ../how-tos/add_transcript_other_language.rst
 
 .. _Control Visibility and Access:
 
@@ -91,27 +103,18 @@ Add Course Assets
    :maxdepth: 2
    :glob:
 
+   ../references/course_development/files_page.rst
    ../how-tos/course_development/add_course_files.rst
    ../how-tos/course_development/add_pages.rst
    ../how-tos/course_development/add_textbooks.rst
    ../how-tos/course_development/configure_resources.rst
    ../how-tos/add_course_page.rst
    ../references/course_development/exercise_tools/google_docs.rst
-   ../references/course_development/files_page.rst
    ../how-tos/manage_files.rst
    
-
-Add Mathjax
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   ../references/course_development/exercise_tools/mathjax_studio.rst
    
 
-Add Tags
+Add Tags and Manage Course Tags
 *******************************************************
 
 .. toctree::
@@ -119,15 +122,6 @@ Add Tags
    :glob:
 
    ../references/course_development/exercise_tools/conditional_module.rst
-
-   
-Add and Manage Course Tags
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
    ../how-tos/add_delete_course_tags.rst
 
 Embed SCORM Content
@@ -142,27 +136,6 @@ Embed SCORM Content
    ../how-tos/import_scorm_content.rst
 
 
-Google Calendar Tool
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   ../how-tos/course_development/exercise_tools/embed_google_calendar.rst
-
-
-Google Drive Tool
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   ../how-tos/course_development/exercise_tools/embed_google_drive.rst
-   ../how-tos/course_development/exercise_tools/add_google_drive.rst
-
-
 iFrame Tool
 *******************************************************
 
@@ -170,7 +143,10 @@ iFrame Tool
    :maxdepth: 2
    :glob:
 
+   ../references/course_development/exercise_tools/iframe.rst
    ../how-tos/course_development/exercise_tools/create_iframe.rst
+   ../how-tos/embed_iframe_text_editor.rst
+   ../how-tos/add_content_iframe.rst
 
 
 Re-run a Course
@@ -184,28 +160,6 @@ Re-run a Course
    ../references/course_development/work_with_targz_file.rst
 
 
-
-Test Your Course
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   ../references/testing_course_content.rst
-   ../references/roles_for_viewing.rst
-
-Embed IFrames
-*******************************************************
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   ../references/course_development/exercise_tools/iframe.rst
-   ../how-tos/embed_iframe_text_editor.rst
-   ../how-tos/add_content_iframe.rst
-
 Work with Content Libraries
 *******************************************************
 
@@ -218,3 +172,13 @@ Work with Content Libraries
    ../how-tos/course_development/library_access.rst
    ../how-tos/course_development/export_import_library.rst
    ../how-tos/leveraging_libraries.rst
+
+Test Your Course
+*******************************************************
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   ../references/testing_course_content.rst
+   ../references/roles_for_viewing.rst   
